@@ -1,42 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "lanniの小窝",
-    "link": "https://blog.lanni.us.kg/"
+    "name": "ayosiqの小窝",
+    "link": "https://blog.ayosiq.us.kg/"
   },
   {
-    "icon": "Fire",
-    "name": "lanniの今日热榜",
-    "link": "https://jinrirebang.lanni.us.kg/"
+    "icon": "PictureTwotone",
+    "name": "随图",
+    "link": "http://awy.ayosiq.us.kg/"
   },
   {
     "icon": "CompactDisc",
-    "name": "lanniの音乐",
-    "link": "https://music.lanni.us.kg/"
+    "name": "ayosiqの音乐",
+    "link": "https://music.ayosiq.us.kg/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://www.ayosiq.us.kg/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "http://dhw.ayosiq.us.kg/"
   },
   {
     "icon": "LaptopCode",
-    "name": "lanniの站点监测",
-    "link": "https://online.lanni.us.kg/"
-  },
-  {
-    "icon": "Brain",
-    "name": "lanniのAI",
-    "link": "https://ai.lanni.us.kg/"
-  },
-  {
-    "icon": "Google",
-    "name": "lanniのGoogle",
-    "link": "https://google.lanni.us.kg/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "lanniの小网盘",
-    "link": "https://pan.lanni.us.kg"
-  },
-  {
-    "icon": "Heart",
-    "name": "情侣空间",
-    "link": "https://love.lanni.us.kg/"
+    "name": "站点监测",
+    "link": "https://dec.ayosiq.us.kg/"
   }
 ]
